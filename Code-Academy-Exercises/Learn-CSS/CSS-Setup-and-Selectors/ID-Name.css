@@ -1,0 +1,23 @@
+p {
+     font-family: Arial;
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: teal;
+}
+
+.uppercase{
+ text-transform: uppercase;
+}
+
+#article-title{
+ font-family: cursive;
+ text-transform: capitalize;
+}
+
+/* HTML elements can be given a unique ID.  CSS can use that id for styling specific to that element.  The selector for unique IDs uses the #idname syntax */

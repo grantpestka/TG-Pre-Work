@@ -1,0 +1,18 @@
+p {
+     font-family: Arial;
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: teal;
+}
+
+.uppercase{
+ text-transform: uppercase;
+}
+
+/* each element can have multipal classes.  This allows multipal CSS selectors to be applied to that element */

@@ -1,0 +1,14 @@
+p {
+     font-family: Arial;
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: teal;
+}
+
+/* An elements class can also be used as a CSS selector wth the .classname selector. */

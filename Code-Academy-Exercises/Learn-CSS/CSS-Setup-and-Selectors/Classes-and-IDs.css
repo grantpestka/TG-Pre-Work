@@ -1,0 +1,29 @@
+p {
+     font-family: Arial;
+   }
+
+h1{
+ color: maroon;
+
+}
+
+
+
+.title{
+ color: teal;
+}
+
+.uppercase{
+ text-transform: uppercase;
+}
+
+#article-title{
+ font-family: cursive;
+ text-transform: capitalize;
+}
+
+.publish-time{
+ color: gray;
+}
+
+/* Strategic combinations of classes for similar elements allows us to never duplicate code.  ID selectors always override tag and class selectors, and therefore should be used */ 

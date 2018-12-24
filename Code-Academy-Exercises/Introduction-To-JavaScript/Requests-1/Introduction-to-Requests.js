@@ -1,0 +1,1 @@
+//An asynchronous operation is one that allows the computer to "move on" to other tasks while waiting for the asynchronous operation to complete. Asynchronous programming means that time-consuming operations don't have to bring everything else in our programs to a halt. JavaScript allows us to execute other tasks while awaiting their completion.

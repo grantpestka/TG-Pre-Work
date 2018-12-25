@@ -1,1 +1,6 @@
-//An asynchronous operation is one that allows the computer to "move on" to other tasks while waiting for the asynchronous operation to complete. Asynchronous programming means that time-consuming operations don't have to bring everything else in our programs to a halt. JavaScript allows us to execute other tasks while awaiting their completion.
+
+
+//There are many types of HTTP requests. The four most commonly used types of HTTP requests are GET, POST, PUT, and DELETE.
+//With a GET request, we're retrieving, or getting, information from some source (usually a website).
+//For a POST request, we're posting information to a source that will process the information and send it back.
+//JSON, JavaScript Object Notation

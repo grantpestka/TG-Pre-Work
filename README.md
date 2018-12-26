@@ -12,7 +12,7 @@ HTML, CSS, JavaScript
 ## What is the server-side code’s main function?
 The main function of server-side code is to process client requests. Processing a request the server to simply return a requested resource, or it could require complicated programming. The website might need to be customized for different users. Users might be entering and interacting with personal data or a web application(1). The server-side code make any of this happen and prepares the HTMl that is returned to the user (2).
 
-(1) source: https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+(1) source: https://developer.mozilla.org/en-US/docs/Learn/Server-side)<br>
 (2) source: https://www.mulesoft.com/resources/api/microservices-vs-monolithic)
 
 ## What is the client-side code’s main function?
